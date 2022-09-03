@@ -2,4 +2,3 @@
 Python tarafından oluşturulan MC Protokol ( MELSEC İletişim Protokolü) uygulamasıdır.
 
 # Uygulama Komutu
-pip install pymcprotocol
